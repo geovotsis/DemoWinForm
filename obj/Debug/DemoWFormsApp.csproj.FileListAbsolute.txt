@@ -1,0 +1,12 @@
+C:\Users\Giwrgos\source\repos\DemoWFormsApp\bin\Debug\DemoWFormsApp.exe.config
+C:\Users\Giwrgos\source\repos\DemoWFormsApp\bin\Debug\DemoWFormsApp.exe
+C:\Users\Giwrgos\source\repos\DemoWFormsApp\bin\Debug\DemoWFormsApp.pdb
+C:\Users\Giwrgos\source\repos\DemoWFormsApp\obj\Debug\DemoWFormsApp.csprojAssemblyReference.cache
+C:\Users\Giwrgos\source\repos\DemoWFormsApp\obj\Debug\DemoWFormsApp.Properties.Resources.resources
+C:\Users\Giwrgos\source\repos\DemoWFormsApp\obj\Debug\DemoWFormsApp.csproj.GenerateResource.cache
+C:\Users\Giwrgos\source\repos\DemoWFormsApp\obj\Debug\DemoWFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Giwrgos\source\repos\DemoWFormsApp\obj\Debug\DemoWFormsApp.exe
+C:\Users\Giwrgos\source\repos\DemoWFormsApp\obj\Debug\DemoWFormsApp.pdb
+C:\Users\Giwrgos\source\repos\DemoWFormsApp\obj\Debug\DemoWFormsApp.DemoApp.resources
+C:\Users\Giwrgos\source\repos\DemoWFormsApp\obj\Debug\DemoWFormsApp.Form2.resources
+C:\Users\Giwrgos\source\repos\DemoWFormsApp\obj\Debug\DemoWFormsApp.Form3.resources
